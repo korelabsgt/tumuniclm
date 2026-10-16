@@ -2,14 +2,6 @@ import React from "react";
 import Charts from "./Charts";
 import ImageCarousel from "./ImageCarousel"; // 🔹 Importamos el nuevo componente
 
-const data = [
-  {
-    nombre: "Conservación de carreteras",
-    presupuestado: 7360500.0,
-    ejecutado: 1858295.08,
-  },
-];
-
 const RedvialChart = () => {
   return (
     <div style={{ maxWidth: "100%", margin: "0 auto" }}>
@@ -18,7 +10,7 @@ const RedvialChart = () => {
         es fundamental para garantizar la conectividad entre comunidades, 
         facilitando el transporte de personas y mercancías. 
         Con estas acciones, <b>viajamos más rápido y seguro</b> y además <b>cuidamos los vehículos</b>, fortaleciendo el <b>desarrollo económico</b> del municipio."
-        data={data}
+        policyKey="redVial"
         chartFontSizeX={window.innerWidth < 768 ? 14 : 25}
         chartFontSizeY={window.innerWidth < 768 ? 14 : 16}
         chartHeight={window.innerWidth < 768 ? "500px" : "600px"}

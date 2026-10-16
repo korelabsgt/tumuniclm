@@ -1,0 +1,254 @@
+{
+  "id": 1,
+  "nombre": "1er. Cuatrimestre 2026",
+  "periodo": "1er. Cuatrimestre",
+  "año": 2026,
+  "politicas": [
+    {
+      "nombre": "Actividades Centrales",
+      "presupuestado": 9908800,
+      "ejecutado": 2683097.9
+    },
+    {
+      "nombre": "Política Educativa",
+      "presupuestado": 4697250,
+      "ejecutado": 866007.02
+    },
+    {
+      "nombre": "Política Red Vial",
+      "presupuestado": 16070450,
+      "ejecutado": 2709974.61
+    },
+    {
+      "nombre": "Política de Salud",
+      "presupuestado": 657000,
+      "ejecutado": 39201.3
+    },
+    {
+      "nombre": "Política de Seguridad",
+      "presupuestado": 1146000,
+      "ejecutado": 370212.77
+    },
+    {
+      "nombre": "Política Desarrollo Económico Local",
+      "presupuestado": 2549000,
+      "ejecutado": 412856.22
+    },
+    {
+      "nombre": "Política de Medio Ambiente",
+      "presupuestado": 1987500,
+      "ejecutado": 119682.28
+    },
+    {
+      "nombre": "Política de Servicios Públicos",
+      "presupuestado": 6963500,
+      "ejecutado": 1026133.04
+    },
+    {
+      "nombre": "Asistencia Técnica DMP",
+      "presupuestado": 534000,
+      "ejecutado": 204625.6
+    },
+    {
+      "nombre": "Obras de Infraestructura",
+      "presupuestado": 2469500,
+      "ejecutado": 8467981.25
+    }
+  ],
+  "educacion": [
+    {
+      "nombre": "Primaria MINEDUC",
+      "presupuestado": 968250,
+      "ejecutado": 125547.97
+    },
+    {
+      "nombre": "Preprimaria MINEDUC",
+      "presupuestado": 498000,
+      "ejecutado": 30063.84
+    },
+    {
+      "nombre": "Básico MINEDUC",
+      "presupuestado": 513000,
+      "ejecutado": 57146.11
+    },
+    {
+      "nombre": "Diversificado CMED",
+      "presupuestado": 625000,
+      "ejecutado": 144961.12
+    },
+    {
+      "nombre": "Diversificado MINEDUC",
+      "presupuestado": 187000,
+      "ejecutado": 6391.94
+    },
+    {
+      "nombre": "Parque Escuela",
+      "presupuestado": 95000,
+      "ejecutado": 20119
+    },
+    {
+      "nombre": "Capacitación Educación",
+      "presupuestado": 564000,
+      "ejecutado": 144563.3
+    },
+    {
+      "nombre": "Música y Arte",
+      "presupuestado": 529000,
+      "ejecutado": 173938.28
+    },
+    {
+      "nombre": "Deportes Municipales",
+      "presupuestado": 678000,
+      "ejecutado": 183394.46
+    }
+  ],
+  "redVial": [
+    {
+      "nombre": "Conservación de carreteras",
+      "presupuestado": 16070450,
+      "ejecutado": 2709974.61
+    }
+  ],
+  "desarrollo": [
+    {
+      "nombre": "Fertilizante",
+      "presupuestado": 2275000,
+      "ejecutado": 324770
+    },
+    {
+      "nombre": "COINCEP",
+      "presupuestado": 274000,
+      "ejecutado": 88086.22
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Sistema de Agua Potable",
+      "presupuestado": 1165500,
+      "ejecutado": 190058.16
+    },
+    {
+      "nombre": "Saneamiento Mercado Municipal",
+      "presupuestado": 702000,
+      "ejecutado": 66881.68
+    },
+    {
+      "nombre": "Cementerio",
+      "presupuestado": 82000,
+      "ejecutado": 26700.66
+    },
+    {
+      "nombre": "Alcantarillado",
+      "presupuestado": 145000,
+      "ejecutado": 1400
+    },
+    {
+      "nombre": "Alumbrado Público",
+      "presupuestado": 904000,
+      "ejecutado": 62897.8
+    },
+    {
+      "nombre": "Instalaciones Deportivas",
+      "presupuestado": 2115000,
+      "ejecutado": 175381.53
+    }
+  ],
+  "seguridad": [
+    {
+      "nombre": "Ordenamiento vial y seguridad ciudadana",
+      "presupuestado": 1146000,
+      "ejecutado": 370212.77
+    }
+  ],
+  "salud": [
+    {
+      "nombre": "Apoyo a la salud y Farmacia",
+      "presupuestado": 657000,
+      "ejecutado": 39201.3
+    }
+  ],
+  "medioAmbiente": [
+    {
+      "nombre": "Reforestación",
+      "presupuestado": 490000,
+      "ejecutado": 65448.2
+    },
+    {
+      "nombre": "Huertos Mixtos",
+      "presupuestado": 477500,
+      "ejecutado": 16008
+    },
+    {
+      "nombre": "Tratamiento Desechos",
+      "presupuestado": 245000,
+      "ejecutado": 0
+    },
+    {
+      "nombre": "Recolección Desechos",
+      "presupuestado": 1850000,
+      "ejecutado": 502813.21
+    },
+    {
+      "nombre": "Gestión Riesgo Desastres",
+      "presupuestado": 680000,
+      "ejecutado": 18107.08
+    }
+  ],
+  "infraestructura": [
+    {
+      "nombre": "Agua Potable Aldea Valeriano",
+      "presupuestado": 500.0,
+      "ejecutado": 3079868.75
+    },
+    {
+      "nombre": "Agua Potable Aldea Dolores",
+      "presupuestado": 500.0,
+      "ejecutado": 690137.0
+    },
+    {
+      "nombre": "Agua Potable Aldea La Cañada",
+      "presupuestado": 0.0,
+      "ejecutado": 942513.0
+    },
+    {
+      "nombre": "Camino Rural Las Cruces",
+      "presupuestado": 500.0,
+      "ejecutado": 750000.0
+    },
+    {
+      "nombre": "Camino Rural Liquidambar",
+      "presupuestado": 500.0,
+      "ejecutado": 452562.5
+    },
+    {
+      "nombre": "Camino Rural Alambrados Anguiatu",
+      "presupuestado": 500.0,
+      "ejecutado": 850000.0
+    },
+    {
+      "nombre": "Camino Rural Agua Caliente",
+      "presupuestado": 500.0,
+      "ejecutado": 851000.0
+    },
+    {
+      "nombre": "Camino Rural San José",
+      "presupuestado": 500.0,
+      "ejecutado": 950.0
+    },
+    {
+      "nombre": "Camino Rural Rodeo Las Lajas",
+      "presupuestado": 500.0,
+      "ejecutado": 850950.0
+    },
+    {
+      "nombre": "Agua Potable Cabecera Municipal",
+      "presupuestado": 500.0,
+      "ejecutado": 0.0
+    },
+    {
+      "nombre": "Gimnasio Municipal",
+      "presupuestado": 700000.0,
+      "ejecutado": 0.0
+    }
+  ]
+}

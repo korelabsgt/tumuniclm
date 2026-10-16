@@ -1,0 +1,282 @@
+{
+  "id": 3,
+  "nombre": "Total Ejecutado 2026",
+  "periodo": "Total Ejecutado",
+  "año": 2026,
+  "politicas": [
+    {
+      "nombre": "Actividades Centrales",
+      "presupuestado": 9908800.0,
+      "ejecutado": 5083735.91,
+      "totalEjecutado": 5083735.91
+    },
+    {
+      "nombre": "Política Educativa",
+      "presupuestado": 4697250.0,
+      "ejecutado": 2448762.84,
+      "totalEjecutado": 2448762.84
+    },
+    {
+      "nombre": "Política Red Vial",
+      "presupuestado": 16070450.0,
+      "ejecutado": 6112202.23,
+      "totalEjecutado": 6112202.23
+    },
+    {
+      "nombre": "Política de Salud",
+      "presupuestado": 657000.0,
+      "ejecutado": 94482.22,
+      "totalEjecutado": 94482.22
+    },
+    {
+      "nombre": "Política de Seguridad",
+      "presupuestado": 1146000.0,
+      "ejecutado": 722795.58,
+      "totalEjecutado": 722795.58
+    },
+    {
+      "nombre": "Política Desarrollo Económico Local",
+      "presupuestado": 2549000.0,
+      "ejecutado": 1505948.51,
+      "totalEjecutado": 1505948.51
+    },
+    {
+      "nombre": "Política de Medio Ambiente",
+      "presupuestado": 1987500.0,
+      "ejecutado": 390147.2,
+      "totalEjecutado": 390147.2
+    },
+    {
+      "nombre": "Política de Servicios Públicos",
+      "presupuestado": 6963500.0,
+      "ejecutado": 2688531.13,
+      "totalEjecutado": 2688531.13
+    },
+    {
+      "nombre": "Asistencia Técnica DMP",
+      "presupuestado": 534000.0,
+      "ejecutado": 393858.26,
+      "totalEjecutado": 393858.26
+    },
+    {
+      "nombre": "Obras de Infraestructura",
+      "presupuestado": 2469500.0,
+      "ejecutado": 13716418.75,
+      "totalEjecutado": 13716418.75
+    }
+  ],
+  "educacion": [
+    {
+      "nombre": "Primaria MINEDUC",
+      "presupuestado": 968250.0,
+      "ejecutado": 616189.47,
+      "totalEjecutado": 616189.47
+    },
+    {
+      "nombre": "Preprimaria MINEDUC",
+      "presupuestado": 498000.0,
+      "ejecutado": 128593.36,
+      "totalEjecutado": 128593.36
+    },
+    {
+      "nombre": "Básico MINEDUC",
+      "presupuestado": 513000.0,
+      "ejecutado": 207869.33,
+      "totalEjecutado": 207869.33
+    },
+    {
+      "nombre": "Diversificado CMED",
+      "presupuestado": 625000.0,
+      "ejecutado": 366593.5,
+      "totalEjecutado": 366593.5
+    },
+    {
+      "nombre": "Diversificado MINEDUC",
+      "presupuestado": 187000.0,
+      "ejecutado": 16291.94,
+      "totalEjecutado": 16291.94
+    },
+    {
+      "nombre": "Parque Escuela",
+      "presupuestado": 95000.0,
+      "ejecutado": 49504.28,
+      "totalEjecutado": 49504.28
+    },
+    {
+      "nombre": "Capacitación Educación",
+      "presupuestado": 564000.0,
+      "ejecutado": 326023.96,
+      "totalEjecutado": 326023.96
+    },
+    {
+      "nombre": "Música y Arte",
+      "presupuestado": 529000.0,
+      "ejecutado": 382370.04,
+      "totalEjecutado": 382370.04
+    },
+    {
+      "nombre": "Deportes Municipales",
+      "presupuestado": 678000.0,
+      "ejecutado": 404831.24,
+      "totalEjecutado": 404831.24
+    }
+  ],
+  "redVial": [
+    {
+      "nombre": "Conservación de carreteras",
+      "presupuestado": 16070450.0,
+      "ejecutado": 6112202.23,
+      "totalEjecutado": 6112202.23
+    }
+  ],
+  "desarrollo": [
+    {
+      "nombre": "Fertilizante",
+      "presupuestado": 2275000.0,
+      "ejecutado": 1329461.6,
+      "totalEjecutado": 1329461.6
+    },
+    {
+      "nombre": "COINCEP",
+      "presupuestado": 274000.0,
+      "ejecutado": 176486.91,
+      "totalEjecutado": 176486.91
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Sistema de Agua Potable",
+      "presupuestado": 1165500.0,
+      "ejecutado": 552162.74,
+      "totalEjecutado": 552162.74
+    },
+    {
+      "nombre": "Saneamiento Mercado Municipal",
+      "presupuestado": 702000.0,
+      "ejecutado": 172412.06,
+      "totalEjecutado": 172412.06
+    },
+    {
+      "nombre": "Cementerio",
+      "presupuestado": 82000.0,
+      "ejecutado": 46797.51,
+      "totalEjecutado": 46797.51
+    },
+    {
+      "nombre": "Alcantarillado",
+      "presupuestado": 145000.0,
+      "ejecutado": 114586.56,
+      "totalEjecutado": 114586.56
+    },
+    {
+      "nombre": "Alumbrado Público",
+      "presupuestado": 904000.0,
+      "ejecutado": 180682.62,
+      "totalEjecutado": 180682.62
+    },
+    {
+      "nombre": "Instalaciones Deportivas",
+      "presupuestado": 2115000.0,
+      "ejecutado": 409518.49,
+      "totalEjecutado": 409518.49
+    }
+  ],
+  "seguridad": [
+    {
+      "nombre": "Ordenamiento vial y seguridad ciudadana",
+      "presupuestado": 1146000.0,
+      "ejecutado": 722795.58,
+      "totalEjecutado": 722795.58
+    }
+  ],
+  "salud": [
+    {
+      "nombre": "Apoyo a la salud y Farmacia",
+      "presupuestado": 657000.0,
+      "ejecutado": 94482.22,
+      "totalEjecutado": 94482.22
+    }
+  ],
+  "medioAmbiente": [
+    {
+      "nombre": "Reforestación",
+      "presupuestado": 490000.0,
+      "ejecutado": 164412.95,
+      "totalEjecutado": 164412.95
+    },
+    {
+      "nombre": "Huertos Mixtos",
+      "presupuestado": 477500.0,
+      "ejecutado": 136788.63,
+      "totalEjecutado": 136788.63
+    },
+    {
+      "nombre": "Tratamiento Desechos",
+      "presupuestado": 245000.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Recolección Desechos",
+      "presupuestado": 1850000.0,
+      "ejecutado": 1212371.15,
+      "totalEjecutado": 1212371.15
+    },
+    {
+      "nombre": "Gestión Riesgo Desastres",
+      "presupuestado": 680000.0,
+      "ejecutado": 39441.34,
+      "totalEjecutado": 39441.34
+    }
+  ],
+  "infraestructura": [
+    {
+      "nombre": "Pozo Valeriano",
+      "presupuestado": 500.0,
+      "ejecutado": 3079868.75,
+      "totalEjecutado": 3079868.75
+    },
+    {
+      "nombre": "Pozo Guacamayas",
+      "presupuestado": 500.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Calle y Drenaje La Loma",
+      "presupuestado": 0.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Líneas Eléctricas Los Planes",
+      "presupuestado": 1600000.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Líneas Eléctricas El Aguajal",
+      "presupuestado": 160000.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Pavimento San Antonio",
+      "presupuestado": 0.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    },
+    {
+      "nombre": "Gimnasio Municipal",
+      "presupuestado": 700000.0,
+      "ejecutado": 1096047.97,
+      "totalEjecutado": 1096047.97
+    },
+    {
+      "nombre": "Puente Valle Arriba",
+      "presupuestado": 0.0,
+      "ejecutado": 0.0,
+      "totalEjecutado": 0.0
+    }
+  ]
+}

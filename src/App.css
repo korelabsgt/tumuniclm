@@ -15,6 +15,19 @@
 
 /*    -------------------------     MOBILE     -------------------------     */
 
+/* Ocultar barras de scroll vertical y horizontal en toda la página y elementos */
+* {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+*::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  background: transparent !important;
+}
+
 .root {
   background-color: black !important;
 }
