@@ -30,8 +30,8 @@ import "./CustomNavbar.css";
 const CustomNavbar = () => {
   const navigate = useNavigate();
 
-  const organigrama = "/img/memoria/75.webp";
-  const misionvision = "/img/memoria/4.webp";
+  const organigrama = "/img/ORGANIGRAMA2026.webp";
+  const misionvision = "/img/memoria/4-2025.webp";
 
   const [bgColor, setBgColor] = useState("transparent");
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -92,7 +92,6 @@ const CustomNavbar = () => {
       <MDBContainer fluid>
         <div className="navbar-content">
           <div className="left-section">
-            {/* Contenedor de iconos y texto */}
             <div
               style={{
                 display: "flex",

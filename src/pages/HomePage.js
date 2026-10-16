@@ -1,17 +1,17 @@
-import "./HomePage.css";
-import React, { useState } from "react";
-import { Parallax } from "react-parallax";
 import { Divider } from "antd";
+import { useState } from "react";
+import { Parallax } from "react-parallax";
 import Wave from "react-wavify";
+import "./HomePage.css";
 //importacion imagenes
 import parimg from "../img/sobreNosotros/sillon.webp";
 //importacion componentes
+import Clima from "../components/Clima";
 import CustomNavbar from "../components/CustomNavbar";
+import MapComponent from "../components/MapComponent";
+import Requisitos from "../components/Requisitos";
 import SobreNosotros from "../components/SobreNosotros";
 import Footer from "../components/footer";
-import MapComponent from "../components/MapComponent";
-import Clima from "../components/Clima";
-import Requisitos from "../components/Requisitos";
 import Memoria from "../components/imagenesconlinks/ImagenesConLinks";
 
 function HomePage() {
@@ -68,7 +68,8 @@ function HomePage() {
               <h1 className="parallax-text">¡Hoy! Concepción Avanza</h1>
               <h2>
                 Gobierno Municipal
-                <br /> Telmo Javier
+                <br />
+                2024-2028
               </h2>
               <CustomNavbar />
             </div>

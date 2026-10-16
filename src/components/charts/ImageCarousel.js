@@ -4,7 +4,7 @@ import { Card, Image, Carousel, Button } from "antd";
 const importImages = (start, end) => {
   return Array.from(
     { length: end - start + 1 },
-    (_, i) => `/img/memoria/${start + i}.webp`
+    (_, i) => `/img/memoria/${start + i}-2025.webp`
   );
 };
 
@@ -31,7 +31,7 @@ const ImageCarousel = ({ start, end }) => {
         <Carousel
           ref={carouselRef}
           autoplay
-          autoplaySpeed={2000}
+          autoplaySpeed={3000}
           dots={{ className: "custom-dots" }}
           effect="fade"
         >
@@ -47,7 +47,7 @@ const ImageCarousel = ({ start, end }) => {
               <Image
                 src={src}
                 alt={`Imagen ${index + start}`}
-                loading="lazy" // 💤 Lazy loading activado
+                loading="lazy" 
                 height={window.innerWidth < 768 ? 400 : 700}
                 width="auto"
                 style={{
