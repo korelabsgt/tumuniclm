@@ -138,7 +138,7 @@ const CustomNavbar = () => {
               Información pública
             </Button>
           </div>
-          <a onClick={toggleDrawer} className="menu-icon">
+          <a href="#menu" onClick={(e) => { e.preventDefault(); toggleDrawer(); }} className="menu-icon">
             <FontAwesomeIcon icon={faBars} />
           </a>
         </div>

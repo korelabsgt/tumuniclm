@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Tabs, Button } from "antd";
+import { Tabs } from "antd";
 import InformacionPublica from "./InformacionPublica";
 import InformacionComude from "./InformacionComude";
 import BarraInfo from "../barrainfo/BarraInfo";

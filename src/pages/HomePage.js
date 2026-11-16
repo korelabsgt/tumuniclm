@@ -15,7 +15,7 @@ import Footer from "../components/footer";
 import Memoria from "../components/imagenesconlinks/ImagenesConLinks";
 
 function HomePage() {
-  const [activeComponent, setActiveComponent] = useState("principal");
+  const [activeComponent] = useState("principal");
 
   // Establecer el alto del header para teléfonos y PCs
   const headerHeightMobile = 700; // Altura para teléfono móvil

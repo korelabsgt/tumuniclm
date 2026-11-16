@@ -7,18 +7,6 @@ const { TabPane } = Tabs;
 const { Panel } = Collapse;
 
 const Requisitos = () => {
-  const dataSource = [
-    {
-      key: "1",
-      requisito: "Fotografía del Árbol que se va a talar",
-    },
-    {
-      key: "2",
-      requisito: "Fotocopia DPI vigente",
-    },
-    // Puedes agregar más requisitos aquí si es necesario
-  ];
-
   const Ugam1 = [
     {
       key: "1",

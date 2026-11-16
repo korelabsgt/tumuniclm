@@ -34,7 +34,6 @@ const importAllImages = () => {
 const Memoria = () => {
   const [images, setImages] = useState([]);
   const imageRefs = useRef([]);
-  const [menuOpen, setMenuOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
 
   useEffect(() => {
